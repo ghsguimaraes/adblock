@@ -2,181 +2,181 @@
 ||https://pagead2.googlesyndication.com
 ||https://ads.google.com
 ||https://adservice.google.com
-https://pagead2.googleadservices.com
-https://googleadservices.com
+||https://pagead2.googleadservices.com
+||https://googleadservices.com
 
 #MEDIANET
-https://adservetx.media.net
+||https://adservetx.media.net
 
 #DOUBLECLICK.NET
-https://doubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://m.doubleclick.net
-https://mediavisor.doubleclick.net
+||https://doubleclick.net/
+||https://ad.doubleclick.net/
+||https://static.doubleclick.net
+||https://m.doubleclick.net
+||https://mediavisor.doubleclick.net
 
 #FASTCLICK
-https://fastclick.com
-https://fastclick.net
-https://media.fastclick.net/
-https://cdn.fastclick.net/
+||https://fastclick.com
+||https://fastclick.net
+||https://media.fastclick.net/
+||https://cdn.fastclick.net/
 
 #AMAZON
-https://adtago.s3.amazonaws.com
-https://analyticsengine.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
-https://amazonclix.com
-https://assoc-amazon.com
+||https://adtago.s3.amazonaws.com
+||https://analyticsengine.s3.amazonaws.com
+||https://advice-ads.s3.amazonaws.com
+||https://affiliationjs.s3.amazonaws.com
+||https://advertising-api-eu.amazon.com
+||https://amazonaax.com
+||https://amazonclix.com
+||https://assoc-amazon.com
 
 #GOOGLE ANALYTICS
-https://google-analytics.com
-https://ssl.google-analytics.com
+||https://google-analytics.com
+||https://ssl.google-analytics.com
 
 #HOTJAR
-https://hotjar.com
-https://static.hotjar.com
-https://api-hotjar.com
-https://hotjar-analytics.com
+||https://hotjar.com
+||https://static.hotjar.com
+||https://api-hotjar.com
+||https://hotjar-analytics.com
 
 #MOUSEFLOW
-https://mouseflow.com/
-https://a.mouseflow.com
+||https://mouseflow.com/
+||https://a.mouseflow.com
 
 #FRESHMARKETER
-https://freshmarketer.com/
+||https://freshmarketer.com/
 
 #LUCKYORANGE
-https://luckyorange.com
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://upload.luckyorange.net
-https://cs.luckyorange.net
-https://settings.luckyorange.net
+||https://luckyorange.com
+||https://cdn.luckyorange.com
+||https://w1.luckyorange.com
+||https://upload.luckyorange.net
+||https://cs.luckyorange.net
+||https://settings.luckyorange.net
 
 #STATSWPPLUGIN
-https://stats.wp.com
+||https://stats.wp.com
 
 #BUGSNAG
-https://notify.bugsnag.com
-https://sessions.bugsnag.com
-https://api.bugsnag.com
-https://app.bugsnag.com
+||https://notify.bugsnag.com
+||https://sessions.bugsnag.com
+||https://api.bugsnag.com
+||https://app.bugsnag.com
 
 #SENTRY
-https://browser.sentry-cdn.com
-https://app.getsentry.com
+||https://browser.sentry-cdn.com
+||https://app.getsentry.com
 
 #FACEBOOK
-https://pixel.facebook.com
-https://analytics.facebook.com
-https://ads.facebook.com
-https://an.facebook.com
+||https://pixel.facebook.com
+||https://analytics.facebook.com
+||https://ads.facebook.com
+||https://an.facebook.com
 
 #TWITTER
-https://ads-twitter.com
-https://static.ads-twitter.com
-https://ads-api.twitter.com
-https://advertising.twitter.com
+||https://ads-twitter.com
+||https://static.ads-twitter.com
+||https://ads-api.twitter.com
+||https://advertising.twitter.com
 
 #LINKEDIN
-https://ads.linkedin.com
-https://analytics.pointdrive.linkedin.com
+||https://ads.linkedin.com
+||https://analytics.pointdrive.linkedin.com
 
 #PINTEREST
-https://ads.pinterest.com
-https://log.pinterest.com
-https://ads-dev.pinterest.com
-https://analytics.pinterest.com
-https://trk.pinterest.com
-https://widgets.pinterest.com
+||https://ads.pinterest.com
+||https://log.pinterest.com
+||https://ads-dev.pinterest.com
+||https://analytics.pinterest.com
+||https://trk.pinterest.com
+||https://widgets.pinterest.com
 
 #REDDIT
-https://ads.reddit.com
-https://d.reddit.com
-https://rereddit.com
-https://events.redditmedia.com
+||https://ads.reddit.com
+||https://d.reddit.com
+||https://rereddit.com
+||https://events.redditmedia.com
 
 #YOUTUBE
-https://ads.youtube.com
-https://youtube.cleverads.vn
-https://analytics-sg.tiktok.com
-https://ads-sg.tiktok.com
+||https://ads.youtube.com
+||https://youtube.cleverads.vn
+||https://analytics-sg.tiktok.com
+||https://ads-sg.tiktok.com
 
 #TIKTOK
-https://analytics.tiktok.com
-https://ads.tiktok.com
+||https://analytics.tiktok.com
+||https://ads.tiktok.com
 
 #YAHOO
-https://ads.yahoo.com
-https://global.adserver.yahoo.com
-https://analytics.yahoo.com
-https://ads.yap.yahoo.com
+||https://ads.yahoo.com
+||https://global.adserver.yahoo.com
+||https://analytics.yahoo.com
+||https://ads.yap.yahoo.com
 
 #YANDEX
-https://appmetrica.yandex.com
-https://yandexadexchange.net
-https://analytics.mobile.yandex.net
-https://extmaps-api.yandex.net
-https://adsdk.yandex.ru
+||https://appmetrica.yandex.com
+||https://yandexadexchange.net
+||https://analytics.mobile.yandex.net
+||https://extmaps-api.yandex.net
+||https://adsdk.yandex.ru
 
 #XIAOMI
-https://api.ad.xiaomi.com
-https://app.chat.xiaomi.net
-https://data.mistat.xiaomi.com
-https://data.mistat.intl.xiaomi.com
-https://data.mistat.india.xiaomi.com
-https://data.mistat.rus.xiaomi.com
-https://sdkconfig.ad.xiaomi.com
-https://sdkconfig.ad.intl.xiaomi.com
-https://globalapi.ad.xiaomi.com
-https://www.cdn.ad.xiaomi.com
-https://tracking.miui.com
-https://sa.api.intl.miui.com
-https://tracking.miui.com
-https://tracking.intl.miui.com
-https://tracking.india.miui.com
-https://tracking.rus.miui.com
+||https://api.ad.xiaomi.com
+||https://app.chat.xiaomi.net
+||https://data.mistat.xiaomi.com
+||https://data.mistat.intl.xiaomi.com
+||https://data.mistat.india.xiaomi.com
+||https://data.mistat.rus.xiaomi.com
+||https://sdkconfig.ad.xiaomi.com
+||https://sdkconfig.ad.intl.xiaomi.com
+||https://globalapi.ad.xiaomi.com
+||https://www.cdn.ad.xiaomi.com
+||https://tracking.miui.com
+||https://sa.api.intl.miui.com
+||https://tracking.miui.com
+||https://tracking.intl.miui.com
+||https://tracking.india.miui.com
+||https://tracking.rus.miui.com
 
 #HUAWEI
-https://metrics.data.hicloud.com
-https://metrics1.data.hicloud.com
-https://metrics2.data.hicloud.com
-https://metrics3.data.hicloud.com
-https://metrics4.data.hicloud.com
-https://metrics5.data.hicloud.com 
-https://logservice.hicloud.com
-https://logservice1.hicloud.com
-https://metrics-dra.dt.hicloud.com
-https://logbak.hicloud.com
+||https://metrics.data.hicloud.com
+||https://metrics1.data.hicloud.com
+||https://metrics2.data.hicloud.com
+||https://metrics3.data.hicloud.com
+||https://metrics4.data.hicloud.com
+||https://metrics5.data.hicloud.com 
+||https://logservice.hicloud.com
+||https://logservice1.hicloud.com
+||https://metrics-dra.dt.hicloud.com
+||https://logbak.hicloud.com
 
 #ONEPLUS
-https://analytics.oneplus.cn
-https://click.oneplus.cn
-https://click.oneplus.com
-https://open.oneplus.net
+||https://analytics.oneplus.cn
+||https://click.oneplus.cn
+||https://click.oneplus.com
+||https://open.oneplus.net
 
 #SAMSUNG
-https://ad.samsungadhub.com
-https://samsungadhub.com
-https://samsungads.com
-https://smetrics.samsung.com
-https://nmetrics.samsung.com
-https://samsung-com.112.2o7.net
-https://business.samsungusa.com
-https://analytics.samsungknox.com
-https://bigdata.ssp.samsung.com
-https://analytics-api.samsunghealthcn.com
-https://config.samsungads.com
+||https://ad.samsungadhub.com
+||https://samsungadhub.com
+||https://samsungads.com
+||https://smetrics.samsung.com
+||https://nmetrics.samsung.com
+||https://samsung-com.112.2o7.net
+||https://business.samsungusa.com
+||https://analytics.samsungknox.com
+||https://bigdata.ssp.samsung.com
+||https://analytics-api.samsunghealthcn.com
+||https://config.samsungads.com
 
 #APPLE
-https://metrics.apple.com
-https://securemetrics.apple.com
-https://supportmetrics.apple.com
-https://metrics.icloud.com
-https://metrics.mzstatic.com
+||https://metrics.apple.com
+||https://securemetrics.apple.com
+||https://supportmetrics.apple.com
+||https://metrics.icloud.com
+||https://metrics.mzstatic.com
 
 
 
