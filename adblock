@@ -1,8 +1,4 @@
 ||https://pagead2.googlesyndication.com
-||https://ads.google.com
-||https://adservice.google.com
-||https://pagead2.googleadservices.com
-||https://googleadservices.com
 ||https://adservetx.media.net
 ||https://doubleclick.net/
 ||https://ad.doubleclick.net/
@@ -21,8 +17,7 @@
 ||https://amazonaax.com
 ||https://amazonclix.com
 ||https://assoc-amazon.com
-||https://google-analytics.com
-||https://ssl.google-analytics.com
+
 ||https://hotjar.com
 ||https://static.hotjar.com
 ||https://api-hotjar.com
@@ -129,3 +124,10 @@
 ||gvt4.com
 ||gvt5.com
 ||root-servers.net
+
+#||https://ads.google.com
+#||https://adservice.google.com
+#||https://pagead2.googleadservices.com
+#||https://googleadservices.com
+#||https://google-analytics.com
+#||https://ssl.google-analytics.com
